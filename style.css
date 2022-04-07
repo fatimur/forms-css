@@ -1,0 +1,61 @@
+h2 {
+    color: rgb(3, 74, 107);
+    margin: 10;
+    margin-top: 6;
+
+}
+p {
+    padding-left: 4px;
+    padding-right: 14px;
+}
+.box-one {
+    width: 100px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.box-two {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(151, 151, 173);
+}
+
+.box-two p {
+    padding-left: 5;
+}
+.left {
+    width: 100px;
+}
+
+.left img {
+    width: 100%;
+}
+.middle {
+    max-width: 300px;
+}
+
+.right {
+    width: 50px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    text-align: center;
+    width: 100px;
+    margin: 5px;
+    border: 1px solid red;
+    display: block;
+    padding: 10px 16px;
+    background-color: blanchedalmond;
+
+}
+.footer {
+    margin-top: 100px;
+    width: 500px;
+    background-color: blanchedalmond;
+
+}
